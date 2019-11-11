@@ -6,6 +6,6 @@
 
 The project uses [Mark.js](https://markjs.io/) to help find and highlight words
 
-## время реализации модуль
+## время реализации модуля
 
 20 мин
