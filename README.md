@@ -2,7 +2,7 @@
 
 <p>модуль поиска и подсветки </p>
 
-- [Link](https://reactjs.org/) сылка
+- [Link](https://mizou9999.github.io/Search-Highlight/) сылка
 
 The project uses [Mark.js](https://markjs.io/) to help find and highlight words
 
